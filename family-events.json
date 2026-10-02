@@ -1,0 +1,50 @@
+{
+  "members": [
+    { "id": "mom", "name": "Supraja", "color": "#e63946" },
+    { "id": "dad", "name": "Balaji", "color": "#1d3557" },
+    { "id": "kid1", "name": "Sadhana", "color": "#2a9d8f" },
+    { "id": "kid2", "name": "Shriya", "color": "#f4a261" }
+  ],
+  "categories": [
+    { "id": "sports", "name": "Sports", "emoji": "⚽" },
+    { "id": "music", "name": "Music", "emoji": "🎵" },
+    { "id": "groceries", "name": "Groceries", "emoji": "🛒" },
+    { "id": "swimming", "name": "Swimming", "emoji": "🏊" },
+    { "id": "park", "name": "Park", "emoji": "🌳" },
+    { "id": "vacation", "name": "Vacation", "emoji": "🏖️" },
+    { "id": "cooking", "name": "Cooking", "emoji": "🍳" },
+    { "id": "meal_prep", "name": "Meal Prep", "emoji": "🍱" },
+    { "id": "appointment", "name": "Appointment", "emoji": "🩺" },
+    { "id": "school", "name": "School", "emoji": "🏫" },
+    { "id": "birthday", "name": "Birthday", "emoji": "🎂" },
+    { "id": "cleaning", "name": "Cleaning", "emoji": "🧹" },
+    { "id": "work", "name": "Work", "emoji": "💼" },
+    { "id": "date_night", "name": "Date Night", "emoji": "❤️" },
+    { "id": "travel", "name": "Travel", "emoji": "✈️" },
+    { "id": "other", "name": "Other", "emoji": "📌" }
+  ],
+  "events": [
+    {
+      "id": "evt-0001",
+      "title": "Soccer practice",
+      "member_id": "kid1",
+      "category": "sports",
+      "start": "2026-10-03T16:00:00-04:00",
+      "end": "2026-10-03T17:30:00-04:00",
+      "location": "City Park Field 2",
+      "notes": "",
+      "all_day": false
+    },
+    {
+      "id": "evt-0002",
+      "title": "Dentist appointment",
+      "member_id": "mom",
+      "category": "appointment",
+      "start": "2026-10-05T09:00:00-04:00",
+      "end": "2026-10-05T10:00:00-04:00",
+      "location": "",
+      "notes": "",
+      "all_day": false
+    }
+  ]
+}
